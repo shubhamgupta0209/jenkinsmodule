@@ -1,6 +1,6 @@
 ECHO OFF
 
-ECHO Hello World
+ECHO Hi Blue ocean theme
 
 
 
